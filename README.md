@@ -26,7 +26,7 @@ Client Team 1
 Client Team 2
 
 * PA
-* RRC
+* [Rohit Rohit Chandupatla](https://github.com/Rohitreddz)
 * SSM
 * AS
 
